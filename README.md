@@ -1,4 +1,4 @@
 # awesome-project
 ## My Awesome Project
 
-* Ini list
+* Ini list loh ya
